@@ -1,0 +1,7 @@
+﻿numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+ultralytics
+opencv-python-headless
+scipy
+gradio
